@@ -4,7 +4,7 @@ Angular snippets and learning
 Blob1
 
 NGRX.  
-....* Store. Effects. DevTools.
+    * Store. Effects. DevTools.
 
 
 rxjs.  
