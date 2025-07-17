@@ -13,7 +13,7 @@ Blob1
 
         Observables para1.
 
-   Observables para2.  
+       Observables para2.  
    Observables para3.
 
 a1  . And more.
