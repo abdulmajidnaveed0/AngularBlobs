@@ -9,14 +9,14 @@ Blob1
     + DevTools (browser extension and add to project)
 
 
-222. rxjs.
+222.    rxjs.
 
-     Observables.
+        Observables para1.
 
-     Observables.  
-   Observables.
+ Observables para2.  
+   Observables para3.
 
-1. And more.
+1  . And more.
 
 
 https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
