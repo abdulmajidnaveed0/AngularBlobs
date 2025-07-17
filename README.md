@@ -17,6 +17,7 @@ Blob1
      Observables para21.  
       Observables para2b.  
        Observables para2c.  
+    Observables para2d.  
    Observables para3.
 
 a1  . And more.
