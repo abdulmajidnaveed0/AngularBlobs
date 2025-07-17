@@ -5,11 +5,18 @@ Blob1
 
 1. NGRX.  
     * Store
-    * Effects
-    * DevTools
+    - Effects
+    + DevTools
 
 
-2. rxjs. 
-   Observables.
+2. rxjs.
+
+ Observables.
+
+
+
+https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
+g[github md cheat sheet]
+
 
 
