@@ -9,9 +9,9 @@ Blob1
     + DevTools (browser extension and add to project)
 
 
-222.    rxjs.
+222.   rxjs.
 
-        Observables para1.
+       Observables para1.
 
        Observables para2.  
    Observables para3.
