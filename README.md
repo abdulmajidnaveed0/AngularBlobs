@@ -13,13 +13,13 @@ Blob1
 
         Observables para1.
 
- Observables para2.  
+   Observables para2.  
    Observables para3.
 
-1  . And more.
+a1  . And more.
 
 
-https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
+https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet  
 g[github md cheat sheet]
 
 
