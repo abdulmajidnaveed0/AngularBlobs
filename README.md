@@ -3,7 +3,7 @@ Angular snippets and learning
 
 Blob1
 
-111. NGRX.  (_actions, reducers, selectors)
+1. NGRX.  (_actions, reducers, selectors_)  
     * Store
     - Effects
     + DevTools (browser extension and add to project)
